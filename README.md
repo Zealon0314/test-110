@@ -1,11 +1,11 @@
 # test-110
 测试仓库
-##Git和GitHub的使用
+## Git和GitHub的使用
 讲解Git和GitHub的使用
--Git是什么
--使用场景
--GitHub介绍
+- Git是什么
+- 使用场景
+- GitHub介绍
 
 ```
-let a=1;
+let a = 1;
 ```
